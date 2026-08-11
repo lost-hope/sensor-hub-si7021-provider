@@ -1,0 +1,9 @@
+{
+  "name": "sensor-hub-si7021-provider",
+  "build": {
+    "libArchive": false
+  },
+  "dependencies": {
+    "adafruit/Adafruit Si7021 Library": "^1.5.3"
+  }
+}
